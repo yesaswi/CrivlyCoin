@@ -1,0 +1,26 @@
+{
+  "name": "crivlycoin",
+  "version": "1.0.0",
+  "description": "CrivlyCoin",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crivly/CrivlyCoin.git"
+  },
+  "author": "Sai Yesaswi Vadapalli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crivly/CrivlyCoin/issues"
+  },
+  "homepage": "https://github.com/crivly/CrivlyCoin#readme",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.1.0",
+    "live-server": "^1.2.1"
+  }
+}
