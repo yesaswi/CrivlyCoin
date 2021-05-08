@@ -20,7 +20,9 @@
   },
   "homepage": "https://github.com/crivly/CrivlyCoin#readme",
   "devDependencies": {
-    "@openzeppelin/contracts": "^4.1.0",
     "live-server": "^1.2.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.1.0"
   }
 }
